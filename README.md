@@ -1,22 +1,25 @@
 ### 👋 Hey! Nice to see you.
 
-[![GitHub User's stars](https://img.shields.io/github/stars/teruyamato0731?style=social)](https://github.com/teruyamato0731/Chassis)
-[![GitHub followers](https://img.shields.io/github/followers/teruyamato0731?style=social)](https://github.com/teruyamato0731?tab=following)
-[![Twitter Follow](https://img.shields.io/twitter/follow/teruyamato0731?style=social)](https://twitter.com/intent/follow?screen_name=teruyamato0731)
+[![GitHub User's stargazers](https://img.shields.io/github/stars/teruyamato0731?style=social)](https://github.com/teruyamato0731?tab=repositories&q=&type=&language=&sort=stargazers)
+[![Please Follow my X](https://img.shields.io/twitter/follow/teruyamato0731?style=social)](https://twitter.com/intent/follow?screen_name=teruyamato0731)
 
-Welcome to my profile! I'm a Software, Embedded, Frontend, Backend engineer from Japan 🇯🇵, a student at [OMUCT](https://www.ct.omu.ac.jp/), a member of [the robotics club](https://github.com/omuct-robotclub).
+<p align="left">
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teruyamato0731&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=teruyamato0731&theme=onedark&show_icons=ture" />
+</p>
+
+Welcome to my profile! I'm a Software, Embedded, Frontend, Backend engineer from Japan 🇯🇵, a student at [TUT](https://www.tut.ac.jp/), a member of [the robotics club](https://tutrobo.rm.me.tut.ac.jp/).
 
 <details>
 <summary>🛠 Languages</summary>
 
 - C/C++
-- Nim
 - Rust
 - bash
+- Python
 - PHP
 - SQL
-- Python
-- HTML/CSS/Sass
+- HTML/CSS
 - JavaScript/TypeScript
 - Markdown
 
